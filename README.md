@@ -1,1 +1,1 @@
-# amazon_clone
+Basic amazon.com landing page.
