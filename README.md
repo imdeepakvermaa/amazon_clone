@@ -1,1 +1,1 @@
-Basic amazon.com landing page.
+amazon.com landing page.
